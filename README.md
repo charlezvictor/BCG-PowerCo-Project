@@ -1,2 +1,2 @@
 # BCG-PowerCo-Project
-Will 20% discount in energy tariff reduce customer churn?
+Will 20% discount in energy prices reduce customer churn?
